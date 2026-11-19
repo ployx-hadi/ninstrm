@@ -3,7 +3,7 @@
         "id": "1",
         "ads_data": "{\"sdk_key\":\"off\",\"banner_ad_id\":\"on\",\"inter_ad_id\":\"on\",\"native_ad_id\":\"11\"}",
         "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.therazgames.ninjastream",
-        "web_url": "https:\/\/example.com",
+        "web_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.therazgames.ninjastream",
         "app_version": "0",
         "message": "New update available!",
         "message_url": "https:\/\/example.com\/update",
