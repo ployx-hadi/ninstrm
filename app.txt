@@ -9,7 +9,7 @@
         "message_url": "https:\/\/example.com\/update",
         "share_message": "Share Message",
         "bottom_visible": "no",
-        "msg_visible": "no",
+        "msg_visible": "yes",
         "score_visible": "yes",
         "default_link": "{\"name\":\"Server 1\",\"subTitle\":\"live\",\"link\":\"https:\\\/\\\/otte.cache.aiv-cdn.net\\\/bom-nitro\\\/live\\\/clients\\\/dash\\\/enc\\\/cjglydxghe\\\/out\\\/v1\\\/8977baf175da4b94873194613dd3fe55\\\/cenc.mpd|user-agent=Mozilla\\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\\/537.36 (KHTML, like Gecko) Chrome\\\/149.0.0.0 Safari\\\/537.36\",\"api\":\"85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0\",\"tokenApi\":\"\",\"scheme\":0}"
     }
